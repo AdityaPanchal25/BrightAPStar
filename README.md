@@ -21,3 +21,21 @@ Start the development server using npm run dev.
 Access the website locally and explore the different features and functionalities.
 Contributing
 Contributions to BrightApStar are welcome! If you'd like to contribute, please follow the guidelines outlined in the CONTRIBUTING.md file.
+// LandingPage
+![Blog1](https://github.com/AdityaPanchal25/BrightAPStart/assets/125076518/a59bda49-1c26-4c3a-a86f-a0bce87b6e25)
+
+//Admin Login
+![AdminLogin](https://github.com/AdityaPanchal25/BrightAPStart/assets/125076518/07dab3e9-48fd-490e-a541-383c182634c4)
+
+//Admin Page
+![AdminPage](https://github.com/AdityaPanchal25/BrightAPStart/assets/125076518/2a6455bd-1695-485e-8de6-7b8f4f305248)
+
+//ALL BLOGS
+![allBlogs](https://github.com/AdityaPanchal25/BrightAPStart/assets/125076518/907e3ded-6a0b-444c-8bc0-e6a317392ea1)
+
+//BLOG COMMENT
+![comment sec](https://github.com/AdityaPanchal25/BrightAPStart/assets/125076518/f36e516b-7817-45f4-9e3c-bfa6b1098604)
+
+//SEARCH BLOG
+![SearchBlog](https://github.com/AdityaPanchal25/BrightAPStart/assets/125076518/a983dbf0-15f3-4075-8d9c-3ca2408e1c9d)
+
